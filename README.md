@@ -8,4 +8,3 @@ Since the system changes randomly, it is generally impossible to predict with ce
 ## Examples:
   Coke and Pepsi are the only companies in country X. A soda company wants to tie up with one of these competitor. They hire a market research company to find which of the brand will have a higher market share after 1 month. Currently, Pepsi owns 55% and Coke owns 45% of market share. Following are the conclusions drawn out by the market research company:
   ![transition](https://user-images.githubusercontent.com/19835029/28409290-d8425cee-6d57-11e7-928d-1b0897a66a58.png)
-](url)
